@@ -1,0 +1,74 @@
+[21:20:14] |gui_weather.py[main_guiline:341] |INFO     |配置文件请不要随意修改
+[21:20:14] |gui_weather.py[main_guiline:342] |INFO     |本项目所有程序均使用本地网络进行请求
+[21:20:14] |gui_weather.py[main_guiline:343] |INFO     |如果使用了VPN或代理将不会生效
+[21:20:14] |gui_weather.py[main_guiline:346] |INFO     |程序在正常运行
+[21:20:24] |gui_weather.py[update_weather_dataline:175] |INFO     |当前地区:九龙城区
+[21:20:24] |get_weather.py[get_weather_realtime_infoline:19] |INFO     |获取中...
+[21:20:27] |get_weather.py[get_weather_realtime_infoline:28] |INFO     |实时天气获取成功
+[21:20:27] |get_weather.py[get_weather_forecast_infoline:37] |INFO     |获取中...
+[21:20:29] |get_weather.py[get_weather_forecast_infoline:46] |INFO     |天气预报获取成功
+[21:20:29] |get_weather.py[get_weather_24h_infoline:55] |INFO     |获取中...
+[21:20:32] |get_weather.py[get_weather_24h_infoline:64] |INFO     |天气曲线获取成功
+[21:20:32] |gui_weather.py[update_weather_dataline:179] |INFO     |10分钟后自动更新
+[21:24:15] |images_save.py[save_as_imageline:37] |INFO     |图片已经保存为 fig_20231201212415.png
+[21:28:15] |images_save.py[save_as_imageline:37] |INFO     |图片已经保存为 fig_20231201212815.png
+[21:30:15] |gui_weather.py[update_weather_dataline:175] |INFO     |当前地区:九龙城区
+[21:30:15] |get_weather.py[get_weather_realtime_infoline:19] |INFO     |获取中...
+[21:30:17] |get_weather.py[get_weather_realtime_infoline:28] |INFO     |实时天气获取成功
+[21:30:17] |get_weather.py[get_weather_forecast_infoline:37] |INFO     |获取中...
+[21:30:20] |get_weather.py[get_weather_forecast_infoline:46] |INFO     |天气预报获取成功
+[21:30:20] |get_weather.py[get_weather_24h_infoline:55] |INFO     |获取中...
+[21:30:22] |get_weather.py[get_weather_24h_infoline:64] |INFO     |天气曲线获取成功
+[21:30:22] |gui_weather.py[update_weather_dataline:179] |INFO     |10分钟后自动更新
+[21:32:15] |images_save.py[save_as_imageline:37] |INFO     |图片已经保存为 fig_20231201213215.png
+[21:36:15] |images_save.py[save_as_imageline:37] |INFO     |图片已经保存为 fig_20231201213615.png
+[21:40:15] |gui_weather.py[update_weather_dataline:175] |INFO     |当前地区:九龙城区
+[21:40:15] |get_weather.py[get_weather_realtime_infoline:19] |INFO     |获取中...
+[21:40:17] |get_weather.py[get_weather_realtime_infoline:28] |INFO     |实时天气获取成功
+[21:40:17] |get_weather.py[get_weather_forecast_infoline:37] |INFO     |获取中...
+[21:40:20] |get_weather.py[get_weather_forecast_infoline:46] |INFO     |天气预报获取成功
+[21:40:20] |get_weather.py[get_weather_24h_infoline:55] |INFO     |获取中...
+[21:40:22] |get_weather.py[get_weather_24h_infoline:64] |INFO     |天气曲线获取成功
+[21:40:22] |gui_weather.py[update_weather_dataline:179] |INFO     |10分钟后自动更新
+[21:40:22] |images_save.py[save_as_imageline:37] |INFO     |图片已经保存为 fig_20231201214022.png
+[21:44:15] |images_save.py[save_as_imageline:37] |INFO     |图片已经保存为 fig_20231201214415.png
+[21:48:15] |images_save.py[save_as_imageline:37] |INFO     |图片已经保存为 fig_20231201214815.png
+[21:50:15] |gui_weather.py[update_weather_dataline:175] |INFO     |当前地区:九龙城区
+[21:50:15] |get_weather.py[get_weather_realtime_infoline:19] |INFO     |获取中...
+[21:50:17] |get_weather.py[get_weather_realtime_infoline:28] |INFO     |实时天气获取成功
+[21:50:17] |get_weather.py[get_weather_forecast_infoline:37] |INFO     |获取中...
+[21:50:20] |get_weather.py[get_weather_forecast_infoline:46] |INFO     |天气预报获取成功
+[21:50:20] |get_weather.py[get_weather_24h_infoline:55] |INFO     |获取中...
+[21:50:23] |get_weather.py[get_weather_24h_infoline:64] |INFO     |天气曲线获取成功
+[21:50:23] |gui_weather.py[update_weather_dataline:179] |INFO     |10分钟后自动更新
+[21:52:15] |images_save.py[save_as_imageline:37] |INFO     |图片已经保存为 fig_20231201215215.png
+[21:56:15] |images_save.py[save_as_imageline:37] |INFO     |图片已经保存为 fig_20231201215615.png
+[22:00:15] |gui_weather.py[update_weather_dataline:175] |INFO     |当前地区:九龙城区
+[22:00:15] |get_weather.py[get_weather_realtime_infoline:19] |INFO     |获取中...
+[22:00:16] |get_weather.py[get_weather_realtime_infoline:28] |INFO     |实时天气获取成功
+[22:00:16] |get_weather.py[get_weather_forecast_infoline:37] |INFO     |获取中...
+[22:00:19] |get_weather.py[get_weather_forecast_infoline:46] |INFO     |天气预报获取成功
+[22:00:19] |get_weather.py[get_weather_24h_infoline:55] |INFO     |获取中...
+[22:00:21] |get_weather.py[get_weather_24h_infoline:64] |INFO     |天气曲线获取成功
+[22:00:21] |gui_weather.py[update_weather_dataline:179] |INFO     |10分钟后自动更新
+[22:00:21] |images_save.py[save_as_imageline:37] |INFO     |图片已经保存为 fig_20231201220021.png
+[22:04:15] |images_save.py[save_as_imageline:37] |INFO     |图片已经保存为 fig_20231201220415.png
+[22:08:15] |images_save.py[save_as_imageline:37] |INFO     |图片已经保存为 fig_20231201220815.png
+[22:10:15] |gui_weather.py[update_weather_dataline:175] |INFO     |当前地区:九龙城区
+[22:10:15] |get_weather.py[get_weather_realtime_infoline:19] |INFO     |获取中...
+[22:10:17] |get_weather.py[get_weather_realtime_infoline:28] |INFO     |实时天气获取成功
+[22:10:17] |get_weather.py[get_weather_forecast_infoline:37] |INFO     |获取中...
+[22:10:19] |get_weather.py[get_weather_forecast_infoline:46] |INFO     |天气预报获取成功
+[22:10:19] |get_weather.py[get_weather_24h_infoline:55] |INFO     |获取中...
+[00:35:47] |get_weather.py[get_weather_24h_infoline:69] |CRITICAL |请求异常
+[02:45:02] |images_save.py[save_as_imageline:37] |INFO     |图片已经保存为 fig_20231202024502.png
+[11:51:45] |images_save.py[save_as_imageline:37] |INFO     |图片已经保存为 fig_20231202115145.png
+[14:20:33] |gui_weather.py[update_weather_dataline:175] |INFO     |当前地区:九龙城区
+[14:20:33] |get_weather.py[get_weather_realtime_infoline:19] |INFO     |获取中...
+[14:20:34] |get_weather.py[get_weather_realtime_infoline:28] |INFO     |实时天气获取成功
+[14:20:34] |get_weather.py[get_weather_forecast_infoline:37] |INFO     |获取中...
+[14:20:35] |get_weather.py[get_weather_forecast_infoline:46] |INFO     |天气预报获取成功
+[14:20:35] |get_weather.py[get_weather_24h_infoline:55] |INFO     |获取中...
+[14:20:36] |get_weather.py[get_weather_24h_infoline:64] |INFO     |天气曲线获取成功
+[14:20:36] |gui_weather.py[update_weather_dataline:179] |INFO     |10分钟后自动更新
+[14:20:36] |images_save.py[save_as_imageline:37] |INFO     |图片已经保存为 fig_20231202142036.png

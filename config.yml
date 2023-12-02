@@ -1,0 +1,39 @@
+# API请求设置
+# 注册账号前往: https://id.qweather.com/#/register?redirect=https%3A%2F%2Fconsole.qweather.com 
+# 申请key前往: https://dev.qweather.com/docs/start/get-key/
+# 变更用户类型前往: https://dev.qweather.com/help/account/#account-type
+
+api-settings:
+  # [必填]
+  url_rel: "https://devapi.qweather.com/v7/weather/now?"
+  url_day: "https://devapi.qweather.com/v7/weather/7d?"
+  url_24h: "https://devapi.qweather.com/v7/weather/24h?"
+
+
+key-settings:
+  # [必填/只能一个]
+  key: 29234ae0686b485e9ff319a23b71b157
+
+# 客户端设置
+client-settings:
+ # [必填/只能一个] 日志等级
+ # 默认: DEBUG
+ # 可选: "DEBUG" "INFO" "WARNING" "ERROR" "CRITICAL"
+  level: DEBUG
+ # [必填/只能一个] 本地语言选项 此项影响控制台输出的语言和邮件html的部分语言
+ # 默认: zh_cn
+ # 可选: "zh_cn" "en_us"
+ # 填错默认 "zh_cn"
+  language: zh_cn
+ # [必填/只能一个] 
+  info: Zing
+
+
+# [标识/不填] 仅作用户读取标识
+software-settings:
+  imagenum: 30      # [图片张数]
+  author: Zing      # [无法改动]
+  user: Zing
+  time_update: 600000  # [10 * 60 * 1000]
+  time_saim:   240000  # [4 * 60 * 1000]
+
